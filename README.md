@@ -127,6 +127,6 @@ Build a complete Snake Game from scratch while improving my understanding of **C
 
 ## 👨‍💻 Author
 
-**Mahi**
+**Mahi Jain**
 
 > Built as a learning project while exploring C programming and game development.
