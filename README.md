@@ -103,9 +103,9 @@ The game continuously:
 
 ### Progress
 
-* [ ] Create repository
-* [ ] Set up C file
-* [ ] Create game board
+* [DONE on 10/09/26 ] Create repository
+* [DONE on 12/09/26 ] Set up C file
+* [DONE on 13/09/26 ] Create game board
 * [ ] Create snake
 * [ ] Add movement
 * [ ] Add keyboard controls
