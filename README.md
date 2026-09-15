@@ -106,9 +106,9 @@ The game continuously:
 * [DONE on 10/09/26 ] Create repository
 * [DONE on 12/09/26 ] Set up C file
 * [DONE on 13/09/26 ] Create game board
-* [ ] Create snake
-* [ ] Add movement
-* [ ] Add keyboard controls
+* [ Done on 14/09/26] Create snake
+* [done on 14/09/26 ] Add movement
+* [Done on 15/09/26 ] Add keyboard controls
 * [ ] Add food
 * [ ] Add snake growth
 * [ ] Add collision detection
