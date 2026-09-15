@@ -109,11 +109,11 @@ The game continuously:
 * [ Done on 14/09/26] Create snake
 * [done on 14/09/26 ] Add movement
 * [Done on 15/09/26 ] Add keyboard controls
-* [ ] Add food
-* [ ] Add snake growth
-* [ ] Add collision detection
-* [ ] Add score
-* [ ] Add Game Over screen
+* [Done on 15/09/26 ] Add food
+* [Done on 15/09/26 ] Add snake growth
+* [Done on 15/09/26 ] Add collision detection
+* [Done on 16/09/26 ] Add score
+* [Done on 17/09/26 ] Add Game Over screen
 * [ ] Add screenshots
 * [ ] Final testing
 
